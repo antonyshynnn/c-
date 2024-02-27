@@ -1,0 +1,14 @@
+d:\study\lolitex\8 sem\C#\Lab1\bin\Debug\net8.0\Lab1.exe
+d:\study\lolitex\8 sem\C#\Lab1\bin\Debug\net8.0\Lab1.deps.json
+d:\study\lolitex\8 sem\C#\Lab1\bin\Debug\net8.0\Lab1.runtimeconfig.json
+d:\study\lolitex\8 sem\C#\Lab1\bin\Debug\net8.0\Lab1.dll
+d:\study\lolitex\8 sem\C#\Lab1\bin\Debug\net8.0\Lab1.pdb
+d:\study\lolitex\8 sem\C#\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+d:\study\lolitex\8 sem\C#\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+d:\study\lolitex\8 sem\C#\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+d:\study\lolitex\8 sem\C#\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+d:\study\lolitex\8 sem\C#\Lab1\obj\Debug\net8.0\Lab1.dll
+d:\study\lolitex\8 sem\C#\Lab1\obj\Debug\net8.0\refint\Lab1.dll
+d:\study\lolitex\8 sem\C#\Lab1\obj\Debug\net8.0\Lab1.pdb
+d:\study\lolitex\8 sem\C#\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+d:\study\lolitex\8 sem\C#\Lab1\obj\Debug\net8.0\ref\Lab1.dll
